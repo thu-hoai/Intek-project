@@ -1,2 +1,2 @@
-# Intek-Datastructure
+# Intek-Project
 Intek 
