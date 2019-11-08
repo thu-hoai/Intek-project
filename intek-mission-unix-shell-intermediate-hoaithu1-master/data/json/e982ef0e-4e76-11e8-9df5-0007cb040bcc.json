@@ -1,0 +1,33 @@
+{
+  "place_id": "e982ef0e-4e76-11e8-9df5-0007cb040bcc",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Sở Giao dịch Chứng khoán Thành Phố Hồ Chí Minh",
+      "house_number": "45",
+      "street_name": "đường Võ Văn Kiệt",
+      "ward": "phường Nguyễn Thái Bình",
+      "district": "quận 1",
+      "city": "thành phồ Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Chambre du Commerce",
+      "house_number": "45",
+      "street_name": "rue Vo Van Kiêt",
+      "ward": "quartier Nguyên Thai Binh",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.76806,
+    "longitude": 106.70206
+  },
+  "cover": {
+    "picture_id": "af5635d0-4e7a-11e8-9df5-0007cb040bcc",
+    "picture_url": "/static/_cover/af5635d0-4e7a-11e8-9df5-0007cb040bcc_cover.jpg"
+  }
+}

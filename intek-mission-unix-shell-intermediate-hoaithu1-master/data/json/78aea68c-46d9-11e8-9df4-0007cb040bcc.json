@@ -1,0 +1,33 @@
+{
+  "place_id": "78aea68c-46d9-11e8-9df4-0007cb040bcc",
+  "address": [
+    {
+      "locale": "fra",
+      "recipient_name": "Direction de l'Intérieur",
+      "house_number": "59-61",
+      "street_name": "rue Ly Tu Trong",
+      "ward": "quartier Bên Nghe",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    },
+    {
+      "locale": "vie",
+      "recipient_name": "Sở Thông tin & Truyền thông",
+      "house_number": "59-61",
+      "street_name": "đường Lý Tự Trọng",
+      "ward": "phường Bến Nghé",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.77758,
+    "longitude": 106.70076
+  },
+  "cover": {
+    "picture_id": "5267695c-46dc-11e8-9df4-0007cb040bcc",
+    "picture_url": "/static/_cover/5267695c-46dc-11e8-9df4-0007cb040bcc_cover.jpg"
+  }
+}

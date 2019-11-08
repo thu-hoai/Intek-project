@@ -1,0 +1,33 @@
+{
+  "place_id": "616ce60e-47a7-11e8-9df4-0007cb040bcc",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Bệnh viện Nhi Đồng II",
+      "house_number": "14",
+      "street_name": "đường Lý Tự Trọng",
+      "ward": "phường Bến Nghé",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Hôpital Militaire",
+      "house_number": "14",
+      "street_name": "rue Ly Tu Trong",
+      "ward": "quartier Bên Nghe",
+      "district": "1er arrondissement",
+      "city": "Hô Chu Minh Ville",
+      "country": "Viêt-nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.78045,
+    "logitude": 106.70321
+  },
+  "cover": {
+    "picture_id": "a31ec77c-d7b2-11e6-98da-e32631de8957",
+    "picture_url": "/static/_cover/a31ec77c-d7b2-11e6-98da-e32631de8957_cover.jpg"
+  }
+}

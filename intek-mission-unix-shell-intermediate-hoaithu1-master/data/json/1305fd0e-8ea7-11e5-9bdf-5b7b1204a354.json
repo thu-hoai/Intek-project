@@ -1,0 +1,33 @@
+{
+  "place_id": "1305fd0e-8ea7-11e5-9bdf-5b7b1204a354",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Ủy ban Nhân dân Thành phố Hồ Chí Minh",
+      "house_number": "86",
+      "street_name": "đường Lê Thánh Tôn",
+      "ward": "phường Bến Nghé",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Hôtel de Ville",
+      "house_number": "86",
+      "street_name": "rue Lê Thanh Tôn",
+      "ward": "quartier Bên Nghe",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.77646,
+    "longitude": 106.70104
+  },
+  "cover": {
+    "picture_url": "/static/_cover/20ef369e-476c-11e8-9df4-0007cb040bcc_cover.jpg",
+    "picture_id": "20ef369e-476c-11e8-9df4-0007cb040bcc"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "place_id": "e1b72b48-453c-11e8-b6f1-0008a20c190f",
+  "address": [
+    {
+      "locale": "fra",
+      "recipient_name": "Cerle des Officiers",
+      "house_number": "45-47",
+      "street_name": "boulevard Lê Duân",
+      "ward": "quartier Bên Nghe",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    },
+    {
+      "locale": "vie",
+      "recipient_name": "Ủy ban Nhân dân Quận 1",
+      "house_number": "45-47",
+      "street_name": "dại lộ Lê Duẩn",
+      "ward": "phường Bến Nghé",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.78077,
+    "longitude": 106.69916
+  },
+  "cover": {
+    "picture_id": "5a004bbe-476f-11e8-9df4-0007cb040bcc",
+    "picture_url": "/static/_cover/5a004bbe-476f-11e8-9df4-0007cb040bcc_cover.jpg"
+  }
+}

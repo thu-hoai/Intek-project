@@ -1,0 +1,59 @@
+{
+  "place_id": "1cc97c5a-8d15-11e5-96c2-5b13a03c6ca8",
+  "address": [
+    {
+      "locale": "fra",
+      "recipient_name": "Cathédrale Notre Dame de Saïgon",
+      "house_number": "1",
+      "street_name": "place de la commune de Paris",
+      "ward": "quartier Bên Nghe",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    },
+    {
+      "locale": "vie",
+      "recipient_name": "Nhà thờ Đức Bà Sài Gòn",
+      "house_number": "1",
+      "street_name": "công xã Paris",
+      "ward": "phường Bến Nghé",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "eng",
+      "recipient_name": "Notre-Dame Cathedral Basilica of Saigon",
+      "house_number": "1",
+      "street_name": "Paris square",
+      "ward": "ward Ben Nghe",
+      "district": "district 1",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam"
+    },
+    {
+      "locale": "kor",
+      "recipient_name": "사이공 노트르담 성당"
+    },
+    {
+      "locale": "spa",
+      "recipient_name": "Basílica de Notre-Dame de Saigón"
+    },
+    {
+      "locale": "jap",
+      "recipient_name": "サイゴン大教会"
+    },
+    {
+      "locale": "zho-hant",
+      "recipient_name": "西貢聖母聖殿主教座堂"
+    }
+  ],
+  "location": {
+    "latitude": 10.7795,
+    "longitude": 106.69933
+  },
+  "cover": {
+    "picture_url": "/static/_cover/bd00373a-f812-11e7-9de2-0007cb040bcc_cover.jpg",
+    "picture_id": "bd00373a-f812-11e7-9de2-0007cb040bcc"
+  }
+}

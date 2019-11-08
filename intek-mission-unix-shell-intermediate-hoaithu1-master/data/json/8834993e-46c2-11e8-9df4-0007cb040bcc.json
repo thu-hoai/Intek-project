@@ -1,0 +1,33 @@
+{
+  "place_id": "8834993e-46c2-11e8-9df4-0007cb040bcc",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Trụ sở Hỏa xa Việt Nam",
+      "house_number": "136",
+      "street_name": "đại lộ Hàm Nghi",
+      "ward": "phường Bến Thành",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Hôtel des Chemins de Fer",
+      "house_number": "136",
+      "street_name": "boulevard Ham Nghi",
+      "ward": "quartier Bên Thanh",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    },
+  ],
+  "location": {
+    "latitude": 10.77135,
+    "longitude": 106.69911
+  },
+  "cover": {
+    "picture_id": "f07abe9e-46c0-11e8-9df4-0007cb040bcc",
+    "picture_url": "f07abe9e-46c0-11e8-9df4-0007cb040bcc_cover.jpg"
+  }
+}

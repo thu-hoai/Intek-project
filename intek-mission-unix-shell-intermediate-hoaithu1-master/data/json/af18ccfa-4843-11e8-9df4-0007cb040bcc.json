@@ -1,0 +1,33 @@
+{
+  "place_id": "af18ccfa-4843-11e8-9df4-0007cb040bcc",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Bảo tàng Lịch sử",
+      "house_number": "2",
+      "street_name": "đường Nguyễn Bỉnh Khiêm",
+      "ward": "phường Bến Nghé",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Musée de la Cochinchine (Blanchard de la Brosse",
+      "house_number": "2",
+      "street_name": "rue Nguyên Binh Khiêm",
+      "ward": "quartier Bên Nghe",
+      "district": "1er district",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.7876,
+    "longitude": 106.70526
+  },
+  "cover": {
+    "picture_id": "67de076a-4843-11e8-9df4-0007cb040bcc",
+    "picture_url": "/static/_cover/67de076a-4843-11e8-9df4-0007cb040bcc_cover.jpg"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "place_id": "2990196c-453c-11e8-b6f1-0008a20c190f",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Bưu điện Trung tâm Sài Gòn",
+      "house_number": "2",
+      "street_name": "công xã Paris",
+      "ward": "phường Bến Nghé",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Hôtel des Postes et des Télégraphes",
+      "house_number": "2",
+      "street_name": "place de la Commune de Paris",
+      "ward": "quartier Bên Nghe",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.77983,
+    "longitude": 106.69986
+  },
+  "cover": {
+    "picture_id": "2990196c-453c-11e8-b6f1-0008a20c190f",
+    "picture_url": "/static/_cover/2990196c-453c-11e8-b6f1-0008a20c190f_cover.jpg"
+  }
+}

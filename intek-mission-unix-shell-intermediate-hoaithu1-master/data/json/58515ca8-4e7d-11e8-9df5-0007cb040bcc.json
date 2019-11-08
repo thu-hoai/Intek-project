@@ -1,0 +1,33 @@
+{
+  "place_id": "58515ca8-4e7d-11e8-9df5-0007cb040bcc",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Bệnh Viện Chợ Rẫy",
+      "house_number": "201B",
+      "street_name": "đuòng Nguyễn Chí Thanh",
+      "ward": "phường 12",
+      "district": "quận 5",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Hôpital Municipal Indigère",
+      "house_number": "201B",
+      "street_name": "rue Nguyên Chi Thanh",
+      "ward": "quartier 12",
+      "district": "5ème arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.75784,
+    "longitude": 106.65961
+  },
+  "cover": {
+    "picture_id": "8fb06b7a-4e7e-11e8-9df5-0007cb040bcc",
+    "picture_url": "/static/_cover/8fb06b7a-4e7e-11e8-9df5-0007cb040bcc_cover.jpg"
+  }
+}

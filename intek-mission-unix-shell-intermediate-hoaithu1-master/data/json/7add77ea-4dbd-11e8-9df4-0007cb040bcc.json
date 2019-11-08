@@ -1,0 +1,31 @@
+{
+  "place_id": "7add77ea-4dbd-11e8-9df4-0007cb040bcc",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Cột cờ Thủ Ngữ",
+      "street_name": "đường Võ Văn Kiệt",
+      "ward": "phường Nguyễn Thái Bình",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Mât des Signaux",
+      "street_name": "rue Vo Van Kiêt",
+      "ward": "quartier Nguyên Thi Binh",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.76993,
+    "longitude": 106.70621
+  },
+  "cover": {
+    "picture_id": "b204d05c-4dbc-11e8-9df4-0007cb040bcc",
+    "picture_url": "/static/_cover/b204d05c-4dbc-11e8-9df4-0007cb040bcc_cover.jpg"
+  }
+}

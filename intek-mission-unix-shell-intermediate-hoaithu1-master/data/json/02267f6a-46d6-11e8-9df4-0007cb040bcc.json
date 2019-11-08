@@ -1,0 +1,43 @@
+{
+  "place_id": "02267f6a-46d6-11e8-9df4-0007cb040bcc",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Bến Nhà Rồng",
+      "house_number": "1",
+      "street_name": "đường Nguyễn Tất Thành",
+      "ward": "phường 12",
+      "district": "quận 4",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Messageries Maritimes",
+      "house_number": "1",
+      "street_name": "rue Nguyên Tât Thanh",
+      "ward": "quartier 12",
+      "district": "4ème arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    },
+    {
+      "locale": "eng",
+      "recipient_name": "Dragon Wharf",
+      "house_number": "1",
+      "street_name": "Nguyen Tat Thanh street",
+      "ward": "ward 12",
+      "district": "district 4",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam"
+    }
+  ],
+  "location": {
+    "latitude": 10.76838,
+    "longitude": 106.70673
+  },
+  "cover": {
+    "picture_id": "06545ecc-46d6-11e8-9df4-0007cb040bcc",
+    "picture_url": "/static/_cover/06545ecc-46d6-11e8-9df4-0007cb040bcc_cover.jpg"
+  }
+}

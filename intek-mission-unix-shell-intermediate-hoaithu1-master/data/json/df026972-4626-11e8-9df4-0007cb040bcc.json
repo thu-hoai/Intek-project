@@ -1,0 +1,43 @@
+{
+  "place_id": "df026972-4626-11e8-9df4-0007cb040bcc",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Dinh Độc Lập",
+      "house_number": "135",
+      "address_name": "đường Nam Kỳ Khởi Nghĩa",
+      "ward": "phường Bến Thành",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Palais du Gouverneur Général",
+      "house_number": "135",
+      "address_name": "rue Nam Ky Khoi Nghia",
+      "ward": "quartier Bên Thanh",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    },
+    {
+      "locale": "eng",
+      "recipient_name": "Palace of the Governor General",
+      "house_number": "135",
+      "address_name": "Nam Ky Khoi Nghia street",
+      "ward": "ward Ben Thanh",
+      "district": "district 1",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam"
+    }
+  ],
+  "location": {
+    "latitude": 10.77804,
+    "longitude": 106.69634
+  },
+  "cover": {
+    "picture_id": "f190a0a2-4623-11e8-9df4-0007cb040bcc",
+    "picture_url": "/static/_cover/f190a0a2-4623-11e8-9df4-0007cb040bcc_cover.jpg"
+  }
+}

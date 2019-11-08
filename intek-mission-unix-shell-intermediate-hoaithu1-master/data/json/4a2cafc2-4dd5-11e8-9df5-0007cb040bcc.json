@@ -1,0 +1,33 @@
+{
+  "place_id": "4a2cafc2-4dd5-11e8-9df5-0007cb040bcc",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Tổng nha ngân khố",
+      "house_number": "38",
+      "street_name": "đại lộ Nguyễn Huệ",
+      "ward": "phường Bến Nghé",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Trésor Public",
+      "house_number": "38",
+      "street_name": "boulevard Nguyên Huê",
+      "ward": "quartier Bên Nghe",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.77248,
+    "longitude": 106.70502
+  },
+  "cover": {
+    "picture_id": "868441c4-4dd5-11e8-9df5-0007cb040bcc",
+    "picture_url": "/static/_cover/868441c4-4dd5-11e8-9df5-0007cb040bcc_cover.jpg"
+  }
+}

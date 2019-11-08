@@ -1,0 +1,31 @@
+{
+  "place_id": "fb99b6f0-46ec-11e8-9df4-0007cb040bcc",
+  "address": [
+    {
+      "locale": "fra",
+      "recipient_name": "Marché Central",
+      "street_name": "boulevard Lê Loi",
+      "ward": "quarier Bên Thanh",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-name"
+    },
+    {
+      "locale": "vie",
+      "recipient_name": "Chợ Bến Thành",
+      "street_name": "đại lộ Lê Lợi",
+      "ward": "phường Bến Thành",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.77201,
+    "longitude": 106.69831
+  },
+  "cover": {
+    "picture_id": "971facb6-d253-11e6-b775-73bb4ce1dc2c",
+    "picture_url": "/static/_cover/971facb6-d253-11e6-b775-73bb4ce1dc2c_cover.jpg"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "place_id": "3d3c4026-4dd9-11e8-9df5-0007cb040bcc",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Cổng trại lính Bộ binh Thuộc địa",
+      "street_name": "đường Lê Duẩn và đường Đinh Tiên Hoàng",
+      "ward": "phương Bến Nghé",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Caserne de l'Infanterie Coloniale",
+      "street_name": "rues Le Duan et Dinh Tien Hoang",
+      "ward": "quartier Bên Nghe",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.78529,
+    "longitude": 106.70299
+  },
+  "cover": {
+    "picture_id": "0077c364-16c4-11e8-9dee-0007cb040bcc",
+    "picture_url": "/static/_cover/0077c364-16c4-11e8-9dee-0007cb040bcc_cover.jpg"
+  }
+}

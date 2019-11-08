@@ -1,0 +1,33 @@
+{
+  "place_id": "0e141c20-4e8c-11e8-9df5-0007cb040bcc",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Công ty Xăng dầu Khu vực 2",
+      "house_number": "15",
+      "street_name": "đại lộ Lê Duẩn",
+      "ward": "phường Bến Nghé",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Compagnie Franco-Asiatique des Pétroles",
+      "house_number": "15",
+      "street_name": "boulevard Lê Duân",
+      "ward": "quartier Bên Nghe",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.78493,
+    "longitude": 106.70292
+  },
+  "cover": {
+    "picture_id": "e6c716e2-6203-11e7-9da2-0007cb040bcc",
+    "picture_url": "/static/_cover/e6c716e2-6203-11e7-9da2-0007cb040bcc_cover.jpg"
+  }
+}

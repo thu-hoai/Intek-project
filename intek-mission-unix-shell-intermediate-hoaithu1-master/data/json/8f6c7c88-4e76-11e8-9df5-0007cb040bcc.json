@@ -1,0 +1,31 @@
+{
+  "place_id": "8f6c7c88-4e76-11e8-9df5-0007cb040bcc",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Nhà thờ Tin Lành",
+      "street_name": "đường Lê Duẩn và đường Mạc Đĩnh Chí",
+      "ward": "phường Bến Nghé",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Temple Protestant",
+      "street_name": "rue Lê Duân et rue Mac Dinh Chi",
+      "ward": "quartier Bên Nghe",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.78343,
+    "longitude": 106.70136
+  },
+  "cover": {
+    "picture_id": "81a4d494-4e74-11e8-9df5-0007cb040bcc",
+    "picture_url": "/static/_cover/81a4d494-4e74-11e8-9df5-0007cb040bcc_cover.jpg"
+  }
+}

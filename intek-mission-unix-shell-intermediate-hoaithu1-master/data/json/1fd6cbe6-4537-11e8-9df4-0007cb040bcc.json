@@ -1,0 +1,39 @@
+{
+  "place_id": "1fd6cbe6-4537-11e8-9df4-0007cb040bcc",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Tòa-Quan-Thuế / Cục Hài Quan",
+      "house_number": "2",
+      "street_name": "đường Hàm Nghi",
+      "ward": "phường Bến Nghé",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Hôtel des Douanes",
+      "house_number": "2",
+      "street_name": "rue Ham Nghi",
+      "ward": "quartier Bên Nghe",
+      "district": "1er arrondissement",
+      "city": "Hô Chu Minh Ville",
+      "country": "Viêt-nam"
+    },
+    {
+      "locale": "eng",
+      "recipient_name": "Customs Directorate",
+      "house_number": "2",
+      "street_name": "Ham Nghi street",
+      "ward": "ward Ben Nghe",
+      "district": "district 1",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam"
+    }
+  ],
+  "location": {
+    "latitude": 10.77099,
+    "longitude": 106.70593
+  }
+}

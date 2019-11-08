@@ -1,0 +1,31 @@
+{
+  "place_id": "a2385db0-47d6-11e8-9df4-0007cb040bcc",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Cầu Mống",
+      "street_name": "đường Võ Văn Kiệt, bến Văn Đồn",
+      "ward": "phường Nguyễn Thái Bìn (quận 1), phường 12 (quận 4)",
+      "district": "quận 1, quận 4",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Pont des Messageries Maritimes",
+      "street_name": "rue Vo Van Kiêt, quai Van Dôn",
+      "ward": "quartier Nguyên Thai Bin (1er arrondissement), quartier 12 (4ème arrondissement)",
+      "district": "1er arrondissement, 4ème arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.76857,
+    "longitude": 106.70346
+  },
+  "cover": {
+    "picture_id": "0e7012b4-16c4-11e8-9dee-0007cb040bcc",
+    "picture_url": "/static/_cover/0e7012b4-16c4-11e8-9dee-0007cb040bcc_cover.jpg"
+  }
+}

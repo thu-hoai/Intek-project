@@ -1,0 +1,33 @@
+{
+  "place_id": "292a1c02-479e-11e8-9df4-0007cb040bcc",
+  "address": [
+    {
+      "locale": "fra",
+      "recipient_name": "Polyclinique Dejean de la Bâtie",
+      "house_number": "125-127",
+      "street_name": "rue Lê Loi",
+      "ward": "quartier Bên Thanh",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    },
+    {
+      "locale": "vie",
+      "recipient_name": "Bệnh viện Đa khoa Sài Gòn",
+      "house_number": "125-127",
+      "street_name": "đường Lê Lợi",
+      "ward": "phường Bến Thành",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.77223,
+    "longitude": 106.69936
+  },
+  "cover": {
+    "picture_id": "29c8cb32-16c4-11e8-9dee-0007cb040bcc",
+    "picture_url": "/static/_cover/29c8cb32-16c4-11e8-9dee-0007cb040bcc_cover.jpg"
+  }
+}

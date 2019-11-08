@@ -1,0 +1,33 @@
+{
+  "place_id": "567dc584-4643-11e8-9df4-0007cb040bcc",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Tòa Hòa Giải",
+      "house_number": "115",
+      "street_name": "đại lộ Nguyễn Huệ",
+      "ward": "phường Bến Nghé",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Justice de Paix",
+      "house_number": "115",
+      "street_name": "boulevard Nguyên Huê",
+      "ward": "quartier Bên Nghe",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.77392,
+    "longitude": 106.70339
+  },
+  "cover": {
+    "picture_id": "36b9d904-4643-11e8-9df4-0007cb040bcc",
+    "picture_url": "/static/_cover/36b9d904-4643-11e8-9df4-0007cb040bcc_cover.jpg"
+  }
+}

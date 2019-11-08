@@ -1,0 +1,43 @@
+{
+  "place_id": "0ddb56b8-4db2-11e8-9df4-0007cb040bcc",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Tổng giáo phận Sài Gòn",
+      "house_number": "180",
+      "street_name": "đường Nguyễn Đình Chiểu",
+      "ward": "phường 6",
+      "district": "quận 3",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "eng",
+      "recipient_name": "Archdiocese of Saigon",
+      "house_number": "180",
+      "street_name": "Nguyen Dinh Chieu street",
+      "ward": "ward 6",
+      "district": "district 3",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Évêché de Saïgon",
+      "house_number": "180",
+      "street_name": "rue Nguyên Dinh Chiêu",
+      "ward": "quartier 6",
+      "district": "3ème arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.77955,
+    "longitude": 106.69108
+  },
+  "cover": {
+    "picture_id": "6b885e58-d254-11e6-a7e9-dfe9e42d8360",
+    "picture_url": "/static/_cover/6b885e58-d254-11e6-a7e9-dfe9e42d8360_cover.jpg"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "place_id": "8a056562-d4fc-11e9-8e0d-0008a20c190f",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Trường Trung học Phổ thông Nguyễn Thị Minh Khai",
+      "house_number": "275",
+      "street_name": "đường Điện Biên Phủ",
+      "ward": "phường 7",
+      "district": "quận 3",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "École des Jeunes Filles Indigènes",
+      "house_number": "275",
+      "street_name": "rue Diên Biên Phu",
+      "ward": "quartier 7",
+      "district": "3ème arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.77935,
+    "longitude": 106.68664
+  },
+  "cover": {
+    "picture_id": "c4dc1c18-4ea6-11e8-9df5-0007cb040bcc",
+    "picture_url": "/static/_cover/c4dc1c18-4ea6-11e8-9df5-0007cb040bcc_cover.jpg"
+  }
+}

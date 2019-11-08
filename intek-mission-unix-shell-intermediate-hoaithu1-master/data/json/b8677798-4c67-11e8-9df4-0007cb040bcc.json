@@ -1,0 +1,33 @@
+{
+  "place_id": "b8677798-4c67-11e8-9df4-0007cb040bcc",
+  "address": [
+    {
+      "locale": "fra",
+      "recipient_name": "Société Financière Française et Coloniale",
+      "house_number": 32,
+      "street_name": "boulevard Ham Nghi",
+      "ward": "quartier Bên Nghe",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    },
+    {
+      "locale": "vie",
+      "recipient_name": "Société Financière Française et Coloniale",
+      "house_number": 32,
+      "street_name": "đại lộ Hàm Nghi",
+      "ward": "phường Bến Nghé",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.77109,
+    "longitude": 106.70446
+  },
+  "cover": {
+    "picture_id": "a4dd1d54-4c67-11e8-9df4-0007cb040bcc",
+    "picture_url": "/static/_cover/a4dd1d54-4c67-11e8-9df4-0007cb040bcc_cover.jpg"
+  }
+}

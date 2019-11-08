@@ -1,0 +1,39 @@
+{
+  "place_id": "5bcaa116-9181-11e5-939d-ff8c5cb69867",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Khách sạn Continental",
+      "house_number": "132-134",
+      "street_name": "đường Đồng Khởi",
+      "ward": "phường Bến Nghé",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Hôtel Continental",
+      "house_number": "132-134",
+      "street_name": "rue Dông Khoi",
+      "ward": "quartier Bên Nghe",
+      "district": "1er arrondissement",
+      "city": "Hô Chu Minh Ville",
+      "country": "Viêt-nam"
+    },
+    {
+      "locale": "eng",
+      "recipient_name": "Continental Hotel",
+      "house_number": "132-134",
+      "street_name": "Dong Khoi street",
+      "ward": "ward Ben Nghe",
+      "district": "district 1",
+      "city": "Ho ChI Minh City",
+      "country": "Vietnam"
+    }
+  ],
+  "location": {
+    "latitude": 10.77668,
+    "logitude": 106.70267
+  }
+}

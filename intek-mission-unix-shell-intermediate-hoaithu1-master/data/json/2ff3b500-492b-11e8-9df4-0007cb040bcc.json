@@ -1,0 +1,33 @@
+{
+  "place_id": "2ff3b500-492b-11e8-9df4-0007cb040bcc",
+  "address": [
+    {
+      "locale": "fra",
+      "recipient_name": "Palais de Justice",
+      "house_number": "131",
+      "street_name": "rue Nam Ky Khoi Nghia",
+      "ward": "quartier Bên Thanh",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    },
+    {
+      "locale": "vie",
+      "recipient_name": "Tòa án Nhân Dân",
+      "house_number": "131",
+      "street_name": "đường Nam Kỳ Khởi Nghĩa",
+      "ward": "phường Bến Thành",
+      "district": "quận 1",
+      "city": "Hồ Chí Minh",
+      "country": "Việt Nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.77624,
+    "longitude": 106.69847
+  },
+  "cover": {
+    "picture_id": "47700f76-492b-11e8-9df4-0007cb040bcc",
+    "picture_url": "/static/_cover/47700f76-492b-11e8-9df4-0007cb040bcc_cover.jpg"
+  }
+}

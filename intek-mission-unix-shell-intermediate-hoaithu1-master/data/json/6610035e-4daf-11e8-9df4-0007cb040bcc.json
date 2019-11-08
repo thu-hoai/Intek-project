@@ -1,0 +1,33 @@
+{
+  "place_id": "6610035e-4daf-11e8-9df4-0007cb040bcc",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Bảo tàng Thành phố Hồ Chí Minh",
+      "house_number": "65",
+      "street_name": "đường Lý Tự Trọng",
+      "ward": "phường Bến Nghé",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Palais du Lieutenant Gouverneur",
+      "house_number": "65",
+      "street_name": "rue Ly Ty Trong",
+      "ward": "quartier Bên Nghe",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.77613,
+    "longitude": 106.69947
+  },
+  "cover": {
+    "picture_id": "f02ce3e2-4da3-11e8-9df4-0007cb040bcc",
+    "picture_url": "/static/_cover/f02ce3e2-4da3-11e8-9df4-0007cb040bcc_cover.jpg"
+  }
+}

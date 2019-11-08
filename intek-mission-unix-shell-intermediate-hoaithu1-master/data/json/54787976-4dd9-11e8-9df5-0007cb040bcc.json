@@ -1,0 +1,33 @@
+{
+  "place_id": "54787976-4dd9-11e8-9df5-0007cb040bcc",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Cung Văn Hóa Lao Động",
+      "house_number": "55B",
+      "street_name": "đường Nguyễn Thị Minh Khai",
+      "ward": "phường Bến Thành",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Cercle Sportif Saïgonnais",
+      "house_number": "55B",
+      "street_name": "rue Nguyên Thi Minh Khai",
+      "ward": "quartier Bên Thanh",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.77648,
+    "longitude": 106.69255
+  },
+  "cover": {
+    "picture_id": "804fefa2-4df2-11e8-9df5-0007cb040bcc",
+    "picture_url": "/static/_cover/804fefa2-4df2-11e8-9df5-0007cb040bcc_cover.jpg"
+  }
+}

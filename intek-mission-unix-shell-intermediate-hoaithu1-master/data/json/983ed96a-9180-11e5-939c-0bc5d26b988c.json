@@ -1,0 +1,33 @@
+{
+  "place_id": "983ed96a-9180-11e5-939c-0bc5d26b988c",
+  "address": [
+    {
+      "locale": "fra",
+      "recipient_name": "Théâtre Municipal",
+      "house_number": "7",
+      "street_name": "place Lam Son",
+      "ward": "quartier Bên Nghe",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    },
+    {
+      "locale": "vie",
+      "recipient_name": "Nhà hát Thành phố Hồ Chí Minh",
+      "house_number": "7",
+      "street_name": "công trường Lam Sơn",
+      "ward": "phường Bến Nghé",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.77649,
+    "longitude": 106.70305
+  },
+  "cover": {
+    "picture_id": "c7c3e86e-d253-11e6-b324-abc660d70999",
+    "picture_url": "/static/_cover/c7c3e86e-d253-11e6-b324-abc660d70999_cover.jpg"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "place_id": "b4d7ea2e-4c6a-11e8-9df4-0007cb040bcc",
+  "address": [
+    {
+      "locale": "vie",
+      "recipient_name": "Ngân hàng Nhà nước Việt Nam",
+      "house_number": "8",
+      "street_name": "đường Võ Văn Kiệt",
+      "ward": "phường Nguyễn Thái Bình",
+      "district": "quận 1",
+      "city": "thành phố Hồ Chí Minh",
+      "country": "Việt Nam"
+    },
+    {
+      "locale": "eng",
+      "recipient_name": "State Bank Of Vietnam",
+      "house_number": "8",
+      "street_name": "Vo Van Kiet street",
+      "ward": "ward Nguyen Thai Binh",
+      "district": "district 1",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam"
+    },
+    {
+      "locale": "fra",
+      "recipient_name": "Banque de l'Indochine",
+      "house_number": "8",
+      "street_name": "rue Vo Van Kiêt",
+      "ward": "quartier Nguyên Thai Binh",
+      "district": "1er arrondissement",
+      "city": "Hô Chi Minh Ville",
+      "country": "Viêt-nam"
+    }
+  ],
+  "location": {
+    "latitude": 10.76905,
+    "longitude": 106.70374
+  },
+  "cover": {
+    "picture_id": "e25040da-4ce4-11e8-9df4-0007cb040bcc",
+    "picture_url": "/static/_cover/e25040da-4ce4-11e8-9df4-0007cb040bcc_cover.jpg"
+  }
+}
