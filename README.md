@@ -2,6 +2,7 @@
 ---
 ## Description
 _Note_: _last updated on 12-29-2019_
+
 Projects at Intek Institute:
 - Fundamental of data structure and Algorithms
 - Sorting Algorithms
@@ -9,6 +10,8 @@ Projects at Intek Institute:
 - Unix Shell intermediate
 - Duplicate File Finder
 - Fibonacci number
+- Elo rating: `build an Elo Rating System`
+- Web video scraper: `step by step to download and rebuild the episode videos from website`
 
 ---
 ## How to use
