@@ -1,7 +1,7 @@
 # Intek Projects
 ---
 ## Description
-_Note_: _last updated on 12-29-2019_
+_Note_: _last updated on Mar 18 2019_
 
 Projects at Intek Institute:
 - Fundamental of data structure and Algorithms
@@ -12,6 +12,7 @@ Projects at Intek Institute:
 - Fibonacci number
 - Elo rating: `build an Elo Rating System`
 - Web video scraper: `step by step to download and rebuild the episode videos from website`
+- TienLen game: `build Tien Len game`
 
 ---
 ## How to use
