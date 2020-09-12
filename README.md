@@ -1,6 +1,8 @@
 # Intek Projects
 ---
 ## Description
+
+_My first steps into the world of programming_
 _Note_: _last updated on Sep 12 2020_
 
 Projects at Intek Institute:
