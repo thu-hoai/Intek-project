@@ -28,8 +28,9 @@ Game
 
 ---
 Other
-- Flickr Mirorring: `Fetching Information from Flickr API to mirror a photostream`
-- Web video scraper: `Step by step to download and rebuild the episode videos from website`
+- Flickr Mirorring: `Fetch Information from Flickr API to mirror a photostream`
+- Web video scraper: `Download and rebuild the episode videos from website`
+- FarCry: `Introduce data science`
 - Elo rating: `Build an Elo Rating System`
 - Heritage Go: `Learn HTML CSS Javascript as the first step`
 - Semantic Versioning and Git Hooks
