@@ -1,0 +1,40 @@
+.report_frame_heritage {
+  margin-top: 52px;
+}
+
+.frame_heritage {
+  display: flex;
+  flex-direction: row;
+  height: 32px;
+  margin-top: 12px;
+  align-items: center;
+  position: relative;
+}
+.frame_heritage_info {
+  display: flex;
+  flex-direction: column;
+}
+.frame_heritage_img {
+  margin-right: 7px;
+}
+
+.frame_heritage_info_title {
+  width: 255px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.frame_heritage_info_coord {
+  font-size: 12px;
+}
+
+.btn-add-report {
+  margin-top: 32px;
+}
+
+.frame_heritage_icon {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  right: 0px;
+}

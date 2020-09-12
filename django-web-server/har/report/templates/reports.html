@@ -1,0 +1,32 @@
+{% extends "base.html" %} {% block content%} {% load static %}
+<div class="report_frame_heritage">
+  {% for report in reports%}
+  <div class="frame_heritage">
+    <img class="frame_heritage_img" src="{% static 'img/ic_heritage.svg' %}" />
+    <div class="frame_heritage_info">
+      <div class="frame_heritage_info_title">
+        {{report.name}}
+      </div>
+      <div class="frame_heritage_info_coord">
+        ({{report.longitude|floatformat:3}},
+        {{report.latitude|floatformat:3}},
+        {{report.altitude|floatformat:1}})
+      </div>
+    </div>
+    <div class="frame_heritage_icon">
+      <a href="/report/{{report.id}}/">
+        <img src="{% static 'img/picture_edit.svg' %}" />
+      </a>
+      <a href="/report/{{report.id}}/deletion">
+        <img src="{% static 'img/picture_delete.svg' %}" />
+      </a>
+    </div>
+  </div>
+  {% endfor %}
+  <a href="/report/">
+    <button class="btn btn-block btn-primary btn-add-report">
+      Add Report
+    </button>
+  </a>
+</div>
+{% endblock content %}

@@ -1,0 +1,82 @@
+body {
+  background-color: #da3e48;
+  color: #ffffff;
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+}
+
+.main_box {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 180px;
+}
+
+.main_box_logo {
+  margin: auto;
+  display: block;
+}
+
+.main_box_logo_img {
+  height: 180px;
+  width: 165.87px;
+}
+
+.main_box_form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.main_box_form_mess {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  margin-bottom: 12px;
+}
+.main_box_form_email_input {
+  width: 100%;
+  height: 40px;
+  padding: 5px;
+  border: 1px solid #8f2227;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.main_box_form_password {
+  position: relative;
+  margin-top: 28px;
+}
+
+.main_box_form_password_input {
+  width: 100%;
+  height: 40px;
+  padding: 5px;
+  border: 1px solid #8f2227;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.main_box_form_password_button {
+  font-size: 15px;
+  display: flex;
+  color: #757575;
+  align-items: center;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 12px;
+  padding: 0 5px;
+}
+
+.main_box_form_forgot {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.main_box_form_forgot_mess {
+  margin-right: 0px;
+  text-align: right;
+}

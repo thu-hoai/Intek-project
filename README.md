@@ -1,18 +1,19 @@
 # Intek Projects
 ---
 ## Description
-_Note_: _last updated on Mar 18 2019_
+_Note_: _last updated on Sep 12 2020_
 
 Projects at Intek Institute:
+- Django web server: `Develop a web server application using Django`
+- Web video scraper: `step by step to download and rebuild the episode videos from website`
+- Elo rating: `build an Elo Rating System`
+- TienLen game: `build Tien Len game`
 - Fundamental of data structure and Algorithms
 - Sorting Algorithms
 - Semantic Versioning and Git Hooks
 - Unix Shell intermediate
 - Duplicate File Finder
 - Fibonacci number
-- Elo rating: `build an Elo Rating System`
-- Web video scraper: `step by step to download and rebuild the episode videos from website`
-- TienLen game: `build Tien Len game`
 
 ---
 ## How to use
@@ -24,5 +25,5 @@ Projects at Intek Institute:
 
 Reach out to me (author)at the following place!
 
-- Email at hoai.le@f4.intek.edu.vn
+- Email at hoai.kt178@gmail.com
 ---

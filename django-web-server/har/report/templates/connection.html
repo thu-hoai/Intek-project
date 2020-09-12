@@ -1,0 +1,35 @@
+{% extends "base.html" %} {% block content%} {% load static %}
+<div class="main_box_form">
+  <div class="main_box_form_mess">
+    (Don't have an account. We are creating one for you.)
+  </div>
+  <form action="" , method="POST">
+    {% csrf_token %}
+    <fieldset class="form-group">
+      <div class="main_box_form_email">
+        {{form.non_field_errors.as_text|cut:"* "}}
+        {{form.username.errors.as_text|cut:"* "}}
+        {{form.username}}
+      </div>
+      <div class="main_box_form_password">
+        <span class="main_box_form_password_button"
+          ><i
+            class="fa fa-eye-slash"
+            id="iconShowPass"
+            onclick="toggleEyeShowPass()"
+          ></i
+        ></span>
+
+        {{form.password1}}
+      </div>
+      <div class="main_box_form_forgot">
+        <div class="main_box_form_forgot_mess">Forgot Password?</div>
+      </div>
+      <button type="submit" class="btn btn-block btn-primary">
+        Connect
+      </button>
+    </fieldset>
+  </form>
+</div>
+
+{% endblock content %}

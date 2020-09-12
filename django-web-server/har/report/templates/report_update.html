@@ -1,0 +1,20 @@
+{% extends "base.html" %} {% block content%} {% load static %}
+<div class="report_container">
+  <div class="report_mess">
+    Edit the information about this Heritage at Risk report:
+  </div>
+  <form action="" , method="POST">
+    {% csrf_token %}
+
+    <div class="report_forms">
+      {{form.name}}
+      {{form.longitude}} {{form.latitude}} {{form.altitude}}
+      {{form.accuracy}}
+    </div>
+    <button class="btn btn-block btn-primary">
+      Update
+    </button>
+  </form>
+
+</div>
+{% endblock content %}
