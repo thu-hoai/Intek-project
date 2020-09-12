@@ -28,6 +28,7 @@ Game
 
 ---
 Other
+- Flickr Mirorring: `Fetching Information from Flickr API to mirror a photostream`
 - Web video scraper: `Step by step to download and rebuild the episode videos from website`
 - Elo rating: `Build an Elo Rating System`
 - Heritage Go: `Learn HTML CSS Javascript as the first step`
