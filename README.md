@@ -16,6 +16,7 @@ Game
 
 ---
 Data structure and Algorithms
+- QR code reader: `R code finder and decoder in **pure Python**, without the help of any computer vision libraries.`
 - Fundamental of data structure and Algorithms
 - Sorting Algorithms
 - Fibonacci number
