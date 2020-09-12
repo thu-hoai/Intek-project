@@ -1,0 +1,40 @@
+info:
+  description: "Heritage At Risk RestfulAPI"
+  version: "1.0.0"
+  title: "har_openapi"
+  contact:
+    email: "hoai.le@f4.intek.edu.vn"
+
+host: "petstore.swagger.io"
+basePath: "/v2"
+repo_url: "https://github.com/intek-training-jsc/har-restful-api-server-hoaithu1"
+repo_name: "har-restful-api-server-hoaithu1"
+
+paths:
+  /pet:
+    post:
+      tags:
+        - "pet"
+      summary: "Add a new pet to the store"
+      description: ""
+      operationId: "addPet"
+      consumes:
+        - "application/json"
+        - "application/xml"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - in: "body"
+          name: "body"
+          description: "Pet object that needs to be added to the store"
+          required: true
+          schema:
+            $ref: "#/definitions/Pet"
+      responses:
+        "405":
+          description: "Invalid input"
+      security:
+        - petstore_auth:
+            - "write:pets"
+            - "read:pets"

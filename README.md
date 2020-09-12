@@ -5,6 +5,7 @@ _Note_: _last updated on Sep 12 2020_
 
 Projects at Intek Institute:
 - Django web server: `Develop a web server application using Django`
+- Flask Restful API: `Develop the Heritage at Risk RESTful API server application using Flask`
 - Web video scraper: `step by step to download and rebuild the episode videos from website`
 - Elo rating: `build an Elo Rating System`
 - TienLen game: `build Tien Len game`
