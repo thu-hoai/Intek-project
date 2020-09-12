@@ -28,7 +28,7 @@ Other
 - Semantic Versioning and Git Hooks
 - Duplicate File Finder
 - Unix Shell intermediate
-
+- Heritage Go: `learn HTML CSS Javascript as the first step`
 ---
 ## How to use
 

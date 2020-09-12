@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="eng">
+
+<head>
+  <meta charset="UTF-8">
+  <!-- Support for favicon -->
+  <link rel="apple-touch-icon" sizes="152x152" href="./apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">
+  <link rel="manifest" href="./site.webmanifest">
+  <link rel="mask-icon" href="./safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <!-- Support for Responsive -->
+  <meta name="viewport" content="width=device-width" , initial-scale="1.0" />
+  <title>Héritage GO</title>
+  <meta name="description" content="Héritage GO is the community for heritage lovers">
+  <link rel="stylesheet" type="text/css" href="./css/main.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <!--===============================================================================================-->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+    integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+  <!--===============================================================================================-->
+
+</head>
+
+<body>
+  <!-------- Modal ----------->
+  <div class="modal fade" id="logInModal" tabindex="-1" role="dialog" aria-labelledby="ModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="ModalLabel"><strong>Log In</strong></h5>
+
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+
+        <div class="modal-body">
+          <!------- Login form --------->
+          <form>
+            <!----- Email ----->
+            <div class="wrap-input">
+              <input class="email-pass-input" type="text" name="email">
+              <span class="focus-input" data-placeholder="Email address"></span>
+            </div>
+            <!------ Password ------>
+            <div class="wrap-input m-b-12">
+              <span class="btn-show-pass"><i class="fa fa-lock"></i></span>
+              <input class="email-pass-input" type="password" name="pass">
+              <span class="focus-input" data-placeholder="Password"></span>
+            </div>
+          </form>
+        </div>
+
+        <!----- Button ------>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-block btn-primary">Log in</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <header id="blurred">
+    <div class="header__box1">
+      <img class="header__box1__logo" src="./img/heritagego_logo_128x73.png" alf="Heritage Go Logo">
+      <div class="header__box1__area">
+        <div class="header__box1__area__location">
+          <div class="header__box1__area__location--primary-area">Hồ Chí Minh</div>
+          <div class="header__box1__area__location--second-area">Vietnam</div>
+        </div>
+        <img class="header__box1__area__compass" src="./img/compass-regular.svg">
+      </div>
+    </div>
+
+    <!-- Trigger the modal with a button -->
+    <div class="header__login">
+      <button class="btn" type="button" data-toggle="modal" data-target="#logInModal">Log In</button>
+    </div>
+  </header>
+  <main class="main">
+    <!-- ================================= -->
+
+    <template id="photoPostTemplate">
+      <!-- Photo Post Layout -->
+      <div class="main__layout">
+        <div class="main__layout__header">
+          <img class="main__layout__header__avatar" src="./default_avatar.jpeg" alt="Avatar of the user">
+          <div class="main__layout__header__info">
+            <div class="main__layout__header__info__caption">
+
+              <!-- Caption of Photo -->
+              <div class="main__layout__header__info__caption--title"  >
+                Jardin Botanique et Zoologique – Le jardin à la française vu du temple du souvenir annamite</div>
+
+                <!-- ------------------------------- -->
+                <div class="dropdown">
+                  <button class="btn dropdown-toggle" type="button" id="dropdownMenuButton"
+                    data-toggle="dropdown" aria-expanded="false">
+                    <img id="main__layout__header__info__caption--translate" class="shake-icon" src="translate-24px.svg">
+                  </button>
+                  <div class="dropdown-menu"></div>
+                </div>
+
+            </div>
+
+            <div class="main__layout__header__info__location">
+              <span class="main__layout__header__info__location--area"><i class="fas fa-map-marker-alt"
+                  aria-hidden="true"></i><span class="main__layout__header__info__location--area__text">
+                  Ho Chi Minh City, Vietnam</span></span>
+              <span class="main__layout__header__info__location--date">
+                <i class="far fa-clock"></i>
+                <span class="main__layout__header__info__location--date__text"> Date</span>
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <img class="main__layout__photo"
+          src="https://cdn.heobs.org/photo/669798e8-f83a-11e7-9de3-0007cb040bcc?size=medium"></img>
+
+        <div class="main__layout__widget">
+          <div class="main__layout__widget__icon">
+            <span><i class="fas fa-heart" aria-hidden="true"></i><span id="like-count"> 0</span></span>
+            <span><i class="fas fa-comment-dots" aria-hidden="true"></i><span id="comment-count"> 0</span></span>
+            <span><i class="fas fa-camera" aria-hidden="true"></i> 0</span>
+          </div>
+          <span><i class="fas fa-bookmark" aria-hidden="true"></i></span>
+        </div>
+        <div class="main__layout__footer">
+          <div class="main__layout__footer__comment ">
+            <input class="main__layout__footer__comment__input" placeholder="Write a comment"></input>
+            <button class="btn"><i class="far fa-paper-plane main__layout__footer__comment__icon"></i> </button>
+          </div>
+        </div>
+      </div>
+    </template>
+  </main>
+  <!-- Integrate Héritage GO RESTful API -->
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT"
+    crossorigin="anonymous"></script>
+  <script>
+    $(document).ready(function () {
+      console.log("document loaded");
+    });
+    $(window).on("load", function () {
+      console.log("window loaded");
+    });
+  </script>
+  <script src="heritagego-service.1.0.0.js"></script>
+  <!--===============================================================================================-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
+  <script src="js/main.js"></script>
+</body>
+
+</html>
