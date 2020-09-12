@@ -6,29 +6,34 @@ _Note_: _last updated on Sep 12 2020_
 Projects at Intek Institute:
 
 ---
-Python frameworks
-- Django web server: `Develop a web server application using Django`
-- Flask Restful API: `Develop the Heritage at Risk RESTful API server application using Flask`
----
-Game
-- Pacman game: `Build Pacman game`
-- TienLen game: `build Tien Len game`
 
----
 Data structure and Algorithms
-- QR code reader: `R code finder and decoder in **pure Python**, without the help of any computer vision libraries.`
+- QR code reader: `QR code finder and decoder in **pure Python**, without the help of any computer vision libraries.`
+- Sprite Sheet detector: `Detect sprites packed in an image (sheet) and draw their masks and bounding boxes into a new image with the same size of the original image`
 - Fundamental of data structure and Algorithms
 - Sorting Algorithms
 - Fibonacci number
 
 ---
+Fameworks
+- Django web server: `Develop a web server application using Django`
+- Flask Restful API: `Develop the Heritage at Risk RESTful API server application using Flask`
+- React Native Heritage Mobile App: `Practice React native as the first step`
+---
+
+Game
+- Pacman game: `Build Pacman game`
+- TienLen game: `build Tien Len game`
+
+
+---
 Other
-- Web video scraper: `step by step to download and rebuild the episode videos from website`
-- Elo rating: `build an Elo Rating System`
+- Web video scraper: `Step by step to download and rebuild the episode videos from website`
+- Elo rating: `Build an Elo Rating System`
+- Heritage Go: `Learn HTML CSS Javascript as the first step`
 - Semantic Versioning and Git Hooks
 - Duplicate File Finder
 - Unix Shell intermediate
-- Heritage Go: `learn HTML CSS Javascript as the first step`
 ---
 ## How to use
 
