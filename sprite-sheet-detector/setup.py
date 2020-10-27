@@ -18,7 +18,7 @@ setup(
         "certifi==2019.11.28",
         "cffi==1.13.2",
         "chardet==3.0.4",
-        "cryptography==2.8",
+        "cryptography==3.2",
         "docutils==0.16",
         "idna==2.8",
         "importlib-metadata==1.4.0; python_version < '3.8'",
