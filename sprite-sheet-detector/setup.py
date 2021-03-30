@@ -29,7 +29,7 @@ setup(
         "pillow==7.0.0",
         "pkginfo==1.5.0.1",
         "pycparser==2.19",
-        "pygments==2.5.2",
+        "pygments==2.7.4",
         "readme-renderer==24.0",
         "requests==2.22.0",
         "requests-toolbelt==0.9.1",
