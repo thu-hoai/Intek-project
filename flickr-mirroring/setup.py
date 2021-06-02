@@ -40,7 +40,7 @@ setup(
         "langdetect==1.0.8",
         "requests==2.23.0",
         "six==1.14.0",
-        "urllib3==1.25.9",
+        "urllib3==1.26.5",
     ],
     entry_points={
         "console_scripts": ["mirror_flickr=flickr_photostream.__main__:main"],
