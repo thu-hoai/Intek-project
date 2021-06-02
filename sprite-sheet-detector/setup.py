@@ -37,7 +37,7 @@ setup(
         "six==1.14.0",
         "tqdm==4.41.1",
         "twine==3.1.1",
-        "urllib3==1.25.7",
+        "urllib3==1.26.5",
         "webencodings==0.5.1",
         "wheel==0.33.6",
         "zipp==2.0.0",
