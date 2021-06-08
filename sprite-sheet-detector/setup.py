@@ -26,7 +26,7 @@ setup(
         "keyring==21.1.0",
         "more-itertools==8.1.0",
         "numpy==1.18.1",
-        "pillow==7.0.0",
+        "pillow==8.2.0",
         "pkginfo==1.5.0.1",
         "pycparser==2.19",
         "pygments==2.5.2",
