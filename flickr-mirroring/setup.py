@@ -34,7 +34,7 @@ setup(
     packages=["flickr_photostream"],
     include_package_data=True,
     install_requires=[
-        "certifi==2020.4.5.1",
+        "certifi==2022.12.7",
         "chardet==3.0.4",
         "idna==2.9",
         "langdetect==1.0.8",
