@@ -15,7 +15,7 @@ __version__ = "0.0.1"
 setup(
     install_requires=[
         "bleach==3.1.0",
-        "certifi==2019.11.28",
+        "certifi==2022.12.7",
         "cffi==1.13.2",
         "chardet==3.0.4",
         "cryptography==2.8",
