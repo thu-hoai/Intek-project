@@ -39,7 +39,7 @@ setup(
         "twine==3.1.1",
         "urllib3==1.25.7",
         "webencodings==0.5.1",
-        "wheel==0.33.6",
+        "wheel==0.38.1",
         "zipp==2.0.0",
     ],
     author=__author__,
